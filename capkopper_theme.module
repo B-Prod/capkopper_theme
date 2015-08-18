@@ -3,3 +3,6 @@
  * @file
  * Code for the capKopper Theme feature.
  */
+
+include_once 'capkopper_theme.features.inc';
+
